@@ -31,7 +31,7 @@
 
 #### - 🛸 Into Hight Energy Physics and Astrophysics
 
-#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/8bithemant/)
+#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/mrahmadusama/)
 
 
 <br />
@@ -39,7 +39,7 @@
 
 **I am Into , 🙏**
 
-**Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Physics 😼**
+**- I convert coffee into code It is working on my machine - I will fix that later - It's not a bug, it's a feature - That's weird - How is that possible? - I cannot repair your computer - I am not a hacker**
 <br />
 
 
