@@ -21,12 +21,6 @@
 
 ### I'm 21 years old Computer Science student at University of Engineering and Technology Lahore, Pakistan.
 
-
-#### - 🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,NextJs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
-
-
-
-
 #### - 🔭 SpaceX FanBoi, 
 
 #### - 🛸 Into Hight Energy Physics and Astrophysics
@@ -39,7 +33,14 @@
 
 **I am Into , 🙏**
 
-**- I convert coffee into code It is working on my machine - I will fix that later - It's not a bug, it's a feature - That's weird - How is that possible? - I cannot repair your computer - I am not a hacker**
+**I convert coffee into code**
+**It is working on my machine**
+**I will fix that later**
+**It's not a bug, it's a feature**
+**That's weird**
+**How is that possible?**
+**I cannot repair your computer**
+**I am not a hacker**
 <br />
 
 
