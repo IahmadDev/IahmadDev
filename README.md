@@ -21,7 +21,6 @@
 
 ### I'm 21 years old Computer Science student at University of Engineering and Technology Lahore, Pakistan.
 
-#### - ▶ Tech Youtube FanBoi
 
 #### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/mrahmadusama/)
 
