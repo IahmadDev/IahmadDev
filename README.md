@@ -19,7 +19,7 @@
 <img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/IahmadDev/IahmadDev/master/w3yfvf8onvm51%20(1).png" />
 <br />
 
-### I'm 21 years old Computer Science student at University of Engineering and Technology Lahore, Pakistan.
+### I'm 22 years old Computer Science student at University of Engineering and Technology Lahore, Pakistan.
 
 
 #### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/mrahmadusama/)
